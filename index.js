@@ -96,3 +96,4 @@ reset.addEventListener('click', e => {
 
 
 
+console.log('hi')

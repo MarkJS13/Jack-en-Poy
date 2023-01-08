@@ -129,13 +129,22 @@ html, body {
 }
 
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 400px) {
     #game-board .mechanics p {
         font-size: 10px;
     }
 
     #game-board .gameplay {
         padding: 20px 0;
+    }
+
+    .result img {
+        width: 30px;
+        height: 30px;
+    }
+
+    .result {
+        font-size: 15px;
     }
 
     
