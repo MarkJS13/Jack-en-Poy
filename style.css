@@ -136,6 +136,13 @@ html, body {
 
     #game-board .gameplay {
         padding: 20px 0;
+        gap: 8px;
+    }
+
+    #game-board .gameplay img {
+        width: 50px;
+        
+
     }
 
     .result img {
